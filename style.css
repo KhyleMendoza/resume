@@ -40,11 +40,10 @@ table,
 h3,
 ul,
 p {
-   width: 80%;
+   width: 90%;
 }
 
 @media (max-width: 600px) {
-    h1,
     table,
     h3,
     ul,
