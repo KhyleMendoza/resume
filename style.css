@@ -34,8 +34,10 @@ td,
 th {
     padding: 10px;
 }
-
-h1,
+h1
+{
+  width : 100%
+}
 table,
 h3,
 ul,
