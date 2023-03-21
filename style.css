@@ -42,3 +42,13 @@ ul,
 p {
    width: 80%;
 }
+
+@media (max-width: 600px) {
+    h1,
+    table,
+    h3,
+    ul,
+    p {
+      width: 100%;
+    }
+  }
