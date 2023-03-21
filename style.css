@@ -46,6 +46,8 @@ p {
 }
 
 @media (max-width: 600px) {
+    h1,
+    h2,
     table,
     h3,
     ul,
